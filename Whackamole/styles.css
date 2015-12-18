@@ -1,0 +1,23 @@
+.container {
+  max-width: 458px;
+  margin: 24px auto;
+  border: 2px solid #bbb;
+}
+
+.mole {
+  height: 128px;
+  width: 128px;
+  display: inline-block;
+  box-sizing: border-box;
+  margin: 12px;
+  border: 2px dashed #777;
+  background-color: lightgreen;
+}
+
+.on {
+  background-color: red;
+}
+
+header, .score-container {
+  text-align: center;
+}
